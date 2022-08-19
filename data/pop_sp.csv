@@ -1,0 +1,646 @@
+Pos,Cidade,População
+1º,São Paulo,11253503.0
+2º,Guarulhos,1221979.0
+3º,Campinas,1080113.0
+4º,São Bernardo do Campo,765463.0
+5º,Santo André,676407.0
+6º,Osasco,666740.0
+7º,São José dos Campos,629921.0
+8º,Ribeirão Preto,604682.0
+9º,Sorocaba,586625.0
+10º,Santos,419400.0
+11º,Mauá,417064.0
+12º,São José do Rio Preto,408258.0
+13º,Mogi das Cruzes,387779.0
+14º,Diadema,386089.0
+15º,Jundiaí,370126.0
+16º,Carapicuíba,369584.0
+17º,Piracicaba,364571.0
+18º,Baurú,343937.0
+19º,São Vicente,332445.0
+20º,Itaquaquecetuba,321770.0
+21º,Franca,318640.0
+22º,Guarujá,290752.0
+23º,Taubaté,278686.0
+24º,Limeira,276022.0
+25º,Suzano,262480.0
+26º,Praia Grande,262051.0
+27º,Taboão da Serra,244528.0
+28º,Sumaré,241311.0
+29º,Barueri,240749.0
+30º,Embu,240230.0
+31º,São Carlos,221950.0
+32º,Marília,216745.0
+33º,Jacareí,211214.0
+34º,Americana,210638.0
+35º,Araraquara,208662.0
+36º,Presidente Prudente,207610.0
+37º,Indaiatuba,201619.0
+38º,Cotia,201150.0
+39º,Itapevi,200769.0
+40º,Hortolândia,192692.0
+41º,Rio Claro,186253.0
+42º,Araçatuba,181579.0
+43º,Santa Bárbara d'Oeste,180009.0
+44º,Ferraz de Vasconcelos,168306.0
+45º,Francisco Morato,154472.0
+46º,Itu,154147.0
+47º,Itapecerica da Serra,152614.0
+48º,São Caetano do Sul,149263.0
+49º,Pindamonhangaba,146995.0
+50º,Bragança Paulista,146744.0
+51º,Itapetininga,144377.0
+52º,Mogi Guaçu,137245.0
+53º,Franco da Rocha,131604.0
+54º,Jaú,131040.0
+55º,Botucatú,127328.0
+56º,Atibaia,126603.0
+57º,Araras,118843.0
+58º,Cubatão,118720.0
+59º,Ribeirão Pires,113068.0
+60º,Catanduva,112820.0
+61º,Barretos,112101.0
+62º,Guaratinguetá,112072.0
+63º,Sertãozinho,110074.0
+64º,Santana de Parnaíba,108813.0
+65º,Votorantim,108809.0
+66º,Birigui,108728.0
+67º,Jandira,108344.0
+68º,Tatuí,107326.0
+69º,Várzea Paulista,107089.0
+70º,Valinhos,106793.0
+71º,Poá,106013.0
+72º,Salto,105516.0
+73º,Ourinhos,103035.0
+74º,Itatiba,101471.0
+75º,Caraguatatuba,100840.0
+76º,Assis,95144.0
+77º,Leme,91756.0
+78º,Itapeva,87753.0
+79º,Itanhaém,87057.0
+80º,Caieiras,86529.0
+81º,Mogi Mirim,86505.0
+82º,Caçapava,84752.0
+83º,Votuporanga,84692.0
+84º,São João da Boa Vista,83639.0
+85º,Avaré,82934.0
+86º,Lorena,82537.0
+87º,Paulínia,82146.0
+88º,Mairiporã,80956.0
+89º,São Roque,78821.0
+90º,Ubatuba,78801.0
+91º,Cruzeiro,77039.0
+92º,Matão,76786.0
+93º,Bebedouro,75035.0
+94º,Arujá,74905.0
+95º,Campo Limpo Paulista,74074.0
+96º,São Sebastião,73942.0
+97º,Jaboticabal,71662.0
+98º,Lins,71432.0
+99º,Ibiúna,71217.0
+100º,Pirassununga,70081.0
+101º,Itapira,68537.0
+102º,Mococa,66290.0
+103º,Amparo,65829.0
+104º,Fernandópolis,64696.0
+105º,Cajamar,64114.0
+106º,Vinhedo,63611.0
+107º,Tupã,63476.0
+108º,Embu-Guaçu,62769.0
+109º,Lençóis Paulista,61428.0
+110º,Peruíbe,59773.0
+111º,Cosmópolis,58827.0
+112º,Penápolis,58510.0
+113º,Batatais,56476.0
+114º,Andradina,55334.0
+115º,Registro,54261.0
+116º,Taquaritinga,53988.0
+117º,Mirassol,53792.0
+118º,Ibitinga,53158.0
+119º,Piedade,52143.0
+120º,São José do Rio Pardo,51900.0
+121º,Porto Ferreira,51400.0
+122º,Nova Odessa,51242.0
+123º,Santa Isabel,50453.0
+124º,Olímpia,50024.0
+125º,Monte Mor,48949.0
+126º,Porto Feliz,48893.0
+127º,Capivari,48576.0
+128º,Boituva,48314.0
+129º,Itararé,47934.0
+130º,Campos do Jordão,47789.0
+131º,Bertioga,47645.0
+132º,Jales,47012.0
+133º,Monte Alto,46642.0
+134º,São Joaquim da Barra,46512.0
+135º,Mongaguá,46293.0
+136º,Capão Bonito,46178.0
+137º,Itupeva,44859.0
+138º,Jaguariúna,44311.0
+139º,Artur Nogueira,44177.0
+140º,Rio Grande da Serra,43974.0
+141º,Santa Cruz do Rio Pardo,43921.0
+142º,Dracena,43258.0
+143º,Mairinque,43223.0
+144º,Garça,43115.0
+145º,Vargem Grande Paulista,42997.0
+146º,Paraguaçu Paulista,42278.0
+147º,Espírito Santo do Pinhal,41907.0
+148º,Cabreúva,41604.0
+149º,Pedreira,41558.0
+150º,Pederneiras,41497.0
+151º,Presidente Epitácio,41318.0
+152º,Tremembé,40984.0
+153º,Pontal,40244.0
+154º,Salto de Pirapora,40132.0
+155º,Itápolis,40051.0
+156º,Orlândia,39781.0
+157º,Cerquilho,39617.0
+158º,Vargem Grande do Sul,39266.0
+159º,Serrana,38878.0
+160º,Ituverava,38695.0
+161º,São Manuel,38342.0
+162º,Presidente Venceslau,37910.0
+163º,Jardinópolis,37661.0
+164º,Guaíra,37404.0
+165º,Louveira,37125.0
+166º,Tietê,36835.0
+167º,Socorro,36686.0
+168º,Novo Horizonte,36593.0
+169º,Promissão,35674.0
+170º,Guariba,35486.0
+171º,Pitangueiras,35307.0
+172º,Barra Bonita,35246.0
+173º,Aparecida,35007.0
+174º,Agudos,34524.0
+175º,Américo Brasiliense,34478.0
+176º,Adamantina,33797.0
+177º,José Bonifácio,32763.0
+178º,Aguaí,32148.0
+179º,Cravinhos,31691.0
+180º,São Pedro,31662.0
+181º,Bariri,31593.0
+182º,São Miguel Arcanjo,31450.0
+183º,Descalvado,31056.0
+184º,Osvaldo Cruz,30917.0
+185º,Ibaté,30734.0
+186º,Guararapes,30597.0
+187º,Cachoeira Paulista,30091.0
+188º,Santa Cruz das Palmeiras,29932.0
+189º,Cândido Mota,29884.0
+190º,Rio das Pedras,29501.0
+191º,Santa Fé do Sul,29239.0
+192º,Morro Agudo,29116.0
+193º,Iguape,28841.0
+194º,Rancharia,28804.0
+195º,Juquitiba,28737.0
+196º,Biritiba Mirim,28575.0
+197º,Barrinha,28496.0
+198º,Pirajú,28475.0
+199º,Cajati,28372.0
+200º,Casa Branca,28307.0
+201º,Iperó,28300.0
+202º,Ilhabela,28196.0
+203º,Igarapava,27952.0
+204º,Mirandópolis,27483.0
+205º,Araçoiaba da Serra,27299.0
+206º,Santa Rita do Passa Quatro,26478.0
+207º,Pilar do Sul,26406.0
+208º,Serra Negra,26387.0
+209º,Guararema,25844.0
+210º,Laranjal Paulista,25251.0
+211º,Conchal,25229.0
+212º,Apiaí,25191.0
+213º,Piracaia,25116.0
+214º,Ilha Solteira,25064.0
+215º,Pereira Barreto,24962.0
+216º,Dois Córregos,24761.0
+217º,Pirapozinho,24694.0
+218º,Martinópolis,24219.0
+219º,Tanabi,24055.0
+220º,Itaí,24008.0
+221º,Santa Rosa de Viterbo,23862.0
+222º,Jarinú,23847.0
+223º,Álvares Machado,23513.0
+224º,Cajurú,23371.0
+225º,Igaraçu do Tietê,23362.0
+226º,Pirajuí,22704.0
+227º,Valparaíso,22576.0
+228º,Tambaú,22406.0
+229º,Taquarituba,22291.0
+230º,Angatuba,22210.0
+231º,Cunha,21866.0
+232º,Monte Aprazível,21746.0
+233º,Santa Gertrudes,21634.0
+234º,Brotas,21580.0
+235º,Teodoro Sampaio,21386.0
+236º,Palmital,21186.0
+237º,Brodowski,21107.0
+238º,Cordeirópolis,21080.0
+239º,Santo Antônio de Posse,20650.0
+240º,Miracatu,20592.0
+241º,Santo Anastácio,20475.0
+242º,Miguelópolis,20451.0
+243º,Bastos,20445.0
+244º,Iracemápolis,20029.0
+245º,Pompéia,19964.0
+246º,Lucélia,19882.0
+247º,Guará,19858.0
+248º,Bom Jesus dos Perdões,19708.0
+249º,Rosana,19691.0
+250º,Potim,19397.0
+251º,Juquiá,19246.0
+252º,Nova Granada,19180.0
+253º,Monte Azul Paulista,18931.0
+254º,Junqueirópolis,18726.0
+255º,Buri,18563.0
+256º,Caconde,18538.0
+257º,Regente Feijó,18494.0
+258º,Pariquera-Açu,18446.0
+259º,Ribeirão Branco,18269.0
+260º,Itatinga,18052.0
+261º,Castilho,18003.0
+262º,Guapiara,17998.0
+263º,Guapiaçu,17869.0
+264º,Itaberá,17858.0
+265º,Paranapanema,17808.0
+266º,Capela do Alto,17532.0
+267º,Cerqueira César,17532.0
+268º,Paraibuna,17388.0
+269º,Pradópolis,17377.0
+270º,Colina,17371.0
+271º,Viradouro,17297.0
+272º,Águas de Lindóia,17266.0
+273º,Jacupiranga,17208.0
+274º,Araçariguama,17080.0
+275º,Mirante do Paranapanema,17059.0
+276º,Alumínio,16839.0
+277º,Cafelândia,16607.0
+278º,Nazaré Paulista,16414.0
+279º,Conchas,16288.0
+280º,Macatuba,16259.0
+281º,Elias Fausto,15775.0
+282º,Pirapora do Bom Jesus,15733.0
+283º,Engenheiro Coelho,15721.0
+284º,Pedregulho,15700.0
+285º,Salesópolis,15635.0
+286º,Altinópolis,15607.0
+287º,Cesário Lange,15540.0
+288º,Itirapina,15524.0
+289º,Severínia,15501.0
+290º,Itariri,15471.0
+291º,Potirendaba,15449.0
+292º,Buritama,15418.0
+293º,Fartura,15320.0
+294º,Charqueada,15085.0
+295º,Pindorama,15039.0
+296º,Tabatinga,14686.0
+297º,Eldorado,14641.0
+298º,Bady Bassitt,14603.0
+299º,Panorama,14583.0
+300º,Guareí,14565.0
+301º,Itajobi,14556.0
+302º,Itaporanga,14549.0
+303º,Borborema,14529.0
+304º,São Simão,14346.0
+305º,Santa Adélia,14333.0
+306º,Tupi Paulista,14269.0
+307º,Auriflama,14202.0
+308º,Ipuã,14148.0
+309º,Piquete,14107.0
+310º,São Lourenço da Serra,13973.0
+311º,Santa Branca,13763.0
+312º,Ipaussu,13663.0
+313º,Boa Esperança do Sul,13645.0
+314º,Presidente Bernardes,13570.0
+315º,Maracaí,13332.0
+316º,Pacaembu,13226.0
+317º,Pinhalzinho,13105.0
+318º,Sete Barras,13005.0
+319º,Patrocínio Paulista,13000.0
+320º,Tarumã,12885.0
+321º,Flórida Paulista,12848.0
+322º,Quatá,12799.0
+323º,Tapiratiba,12737.0
+324º,Urupês,12714.0
+325º,Duartina,12251.0
+326º,Cananéia,12226.0
+327º,Itapuí,12173.0
+328º,Ribeirão Bonito,12135.0
+329º,Chavantes,12114.0
+330º,São Sebastião da Grama,12099.0
+331º,Piratininga,12072.0
+332º,Mineiros do Tietê,12038.0
+333º,Cardoso,11805.0
+334º,Morungaba,11769.0
+335º,Joanópolis,11768.0
+336º,Tabapuã,11363.0
+337º,Avanhandava,11310.0
+338º,Queluz,11309.0
+339º,Holambra,11299.0
+340º,Luís Antônio,11286.0
+341º,Serra Azul,11256.0
+342º,Divinolândia,11208.0
+343º,Palestina,11051.0
+344º,Valentim Gentil,11036.0
+345º,Palmares Paulista,10934.0
+346º,Ibirá,10896.0
+347º,Bocaina,10859.0
+348º,Parapuã,10844.0
+349º,Taguaí,10828.0
+350º,Bernardino de Campos,10775.0
+351º,Vera Cruz,10769.0
+352º,Getulina,10765.0
+353º,Nhandeara,10725.0
+354º,Guaiçara,10670.0
+355º,General Salgado,10669.0
+356º,Pirangi,10623.0
+357º,Areiópolis,10579.0
+358º,Riolândia,10575.0
+359º,Sales Oliveira,10568.0
+360º,São Bento do Sapucaí,10468.0
+361º,Rincão,10414.0
+362º,São Luís do Paraitinga,10397.0
+363º,Bananal,10223.0
+364º,Pedro de Toledo,10204.0
+365º,Estiva Gerbi,10044.0
+366º,Iacanga,10013.0
+367º,Guaraci,9976.0
+368º,Rinópolis,9935.0
+369º,Cajobi,9768.0
+370º,Bofete,9618.0
+371º,Roseira,9599.0
+372º,Euclides da Cunha Paulista,9585.0
+373º,Palmeira d'Oeste,9584.0
+374º,Uchôa,9471.0
+375º,Torrinha,9330.0
+376º,Nova Europa,9300.0
+377º,Sarapuí,9027.0
+378º,Ilha Comprida,9025.0
+379º,Manduri,8992.0
+380º,Urânia,8836.0
+381º,Igaratá,8831.0
+382º,Vargem,8801.0
+383º,Salto Grande,8787.0
+384º,Lavínia,8779.0
+385º,Neves Paulista,8772.0
+386º,Herculândia,8696.0
+387º,Rafard,8612.0
+388º,Dourado,8609.0
+389º,Paulo de Faria,8589.0
+390º,Ariranha,8547.0
+391º,Nova Campina,8515.0
+392º,Terra Roxa,8505.0
+393º,Guaraçaí,8435.0
+394º,São José da Bela Vista,8406.0
+395º,Ouroeste,8405.0
+396º,Porangaba,8326.0
+397º,Santa Lúcia,8248.0
+398º,Estrela d'Oeste,8208.0
+399º,Bálsamo,8160.0
+400º,Dumont,8143.0
+401º,Tapiraí,8012.0
+402º,Cedral,7972.0
+403º,Dobrada,7939.0
+404º,Arealva,7841.0
+405º,Ouro Verde,7800.0
+406º,Irapuru,7789.0
+407º,Barra do Turvo,7729.0
+408º,Macaubal,7663.0
+409º,Iepê,7628.0
+410º,Santo Antônio do Aracanguá,7626.0
+411º,Cristais Paulista,7588.0
+412º,Águas da Prata,7584.0
+413º,Itobi,7546.0
+414º,Icém,7462.0
+415º,Pereiras,7454.0
+416º,Sud Mennucci,7435.0
+417º,Ribeirão Grande,7422.0
+418º,Reginópolis,7323.0
+419º,Irapuã,7275.0
+420º,Cosmorama,7214.0
+421º,São Pedro do Turvo,7198.0
+422º,Monte Alegre do Sul,7152.0
+423º,Catiguá,7127.0
+424º,Clementina,7065.0
+425º,Saltinho,7059.0
+426º,Bilac,7048.0
+427º,Gália,7011.0
+428º,Guatapará,6966.0
+429º,Vista Alegre do Alto,6886.0
+430º,Nuporanga,6817.0
+431º,Ibirarema,6725.0
+432º,Lindóia,6712.0
+433º,Natividade da Serra,6678.0
+434º,Tarabai,6607.0
+435º,Barbosa,6593.0
+436º,Jaborandi,6592.0
+437º,Lavrinhas,6590.0
+438º,Restinga,6587.0
+439º,Santo Antônio do Pinhal,6486.0
+440º,Iacri,6419.0
+441º,Guarantã,6404.0
+442º,Iaras,6376.0
+443º,Paulicéia,6339.0
+444º,Echaporã,6318.0
+445º,Santo Antônio da Alegria,6304.0
+446º,Riversul,6163.0
+447º,Arandu,6123.0
+448º,Oriente,6097.0
+449º,Ipeúna,6016.0
+450º,Quintana,6004.0
+451º,Colômbia,5994.0
+452º,Santo Antônio do Jardim,5943.0
+453º,Tuiuti,5930.0
+454º,Itirapuã,5914.0
+455º,Paraíso,5898.0
+456º,Taiaçu,5894.0
+457º,Nova Aliança,5891.0
+458º,Silveiras,5792.0
+459º,Pedra Bela,5780.0
+460º,Santa Albertina,5723.0
+461º,Taciba,5714.0
+462º,Américo de Campos,5706.0
+463º,Orindiúva,5675.0
+464º,Jaci,5657.0
+465º,Anhembi,5653.0
+466º,Águas de Santa Bárbara,5601.0
+467º,Pardinho,5582.0
+468º,Santa Ernestina,5568.0
+469º,Campina do Monte Alegre,5567.0
+470º,Fernando Prestes,5534.0
+471º,Sales,5451.0
+472º,Taiúva,5447.0
+473º,Três Fronteiras,5427.0
+474º,Guaimbê,5425.0
+475º,Santa Maria da Serra,5413.0
+476º,Poloni,5395.0
+477º,Jambeiro,5349.0
+478º,Ubarana,5289.0
+479º,Piacatu,5287.0
+480º,Barra do Chapéu,5244.0
+481º,Coroados,5238.0
+482º,Sabino,5217.0
+483º,Aramina,5152.0
+484º,Taquarivaí,5151.0
+485º,Caiuá,5039.0
+486º,Luiziânia,5030.0
+487º,Braúna,5021.0
+488º,Coronel Macedo,5001.0
+489º,Avaí,4959.0
+490º,Alambari,4884.0
+491º,Lagoinha,4841.0
+492º,Indiana,4825.0
+493º,Salmourão,4818.0
+494º,Marabá Paulista,4812.0
+495º,Tejupá,4809.0
+496º,Guzolândia,4754.0
+497º,Álvaro de Carvalho,4650.0
+498º,Mendonça,4640.0
+499º,Pratânia,4599.0
+500º,Novais,4592.0
+501º,Glicério,4565.0
+502º,Campos Novos Paulista,4539.0
+503º,Ipiguá,4463.0
+504º,Planalto,4463.0
+505º,Aparecida d'Oeste,4450.0
+506º,Ribeirão do Sul,4446.0
+507º,Júlio Mesquita,4430.0
+508º,Ubirajara,4427.0
+509º,Gavião Peixoto,4419.0
+510º,Canas,4385.0
+511º,Canitar,4369.0
+512º,Cabrália Paulista,4365.0
+513º,Itapura,4357.0
+514º,Lupércio,4353.0
+515º,Iporanga,4299.0
+516º,Mirassolândia,4295.0
+517º,Analândia,4293.0
+518º,Motuca,4290.0
+519º,Narandiba,4288.0
+520º,Santópolis do Aguapeí,4277.0
+521º,Nipoã,4274.0
+522º,Ribeirão Corrente,4273.0
+523º,Boracéia,4268.0
+524º,Espírito Santo do Turvo,4244.0
+525º,Populina,4223.0
+526º,Gastão Vidigal,4193.0
+527º,Murutinga do Sul,4186.0
+528º,Ocauçu,4163.0
+529º,João Ramalho,4150.0
+530º,Presidente Alves,4123.0
+531º,Monteiro Lobato,4120.0
+532º,Alto Alegre,4102.0
+533º,São José do Barreiro,4077.0
+534º,Pontalinda,4074.0
+535º,Caiabu,4072.0
+536º,Monte Castelo,4063.0
+537º,Buritizal,4053.0
+538º,Santa Cruz da Conceição,4002.0
+539º,Mariápolis,3916.0
+540º,Indiaporã,3903.0
+541º,Álvares Florence,3897.0
+542º,Alfredo Marcondes,3891.0
+543º,Onda Verde,3884.0
+544º,Itapirapuã Paulista,3880.0
+545º,Corumbataí,3874.0
+546º,Redenção da Serra,3873.0
+547º,Meridiano,3855.0
+548º,Altair,3815.0
+549º,Paranapuã,3815.0
+550º,Anhumas,3738.0
+551º,Balbinos,3702.0
+552º,Sandovalina,3699.0
+553º,Areias,3696.0
+554º,Macedônia,3664.0
+555º,Inúbia Paulista,3630.0
+556º,Sarutaiá,3622.0
+557º,Bom Sucesso de Itararé,3571.0
+558º,Adolfo,3557.0
+559º,Piquerobi,3537.0
+560º,Pongaí,3481.0
+561º,Nova Luzitânia,3441.0
+562º,Rifaina,3436.0
+563º,Suzanápolis,3383.0
+564º,Ribeira,3358.0
+565º,Mombuca,3266.0
+566º,Itaju,3246.0
+567º,Quadra,3236.0
+568º,Itaóca,3228.0
+569º,Magda,3200.0
+570º,Platina,3192.0
+571º,Jeriquara,3160.0
+572º,Elisiário,3120.0
+573º,Barão de Antonina,3116.0
+574º,Nova Independência,3068.0
+575º,Sebastianópolis do Sul,3031.0
+576º,Emilianópolis,3020.0
+577º,Floreal,3003.0
+578º,Alvinlândia,3000.0
+579º,Pedrinhas Paulista,2940.0
+580º,Rubinéia,2862.0
+581º,Pracinha,2858.0
+582º,Santa Mercedes,2831.0
+583º,Florínea,2829.0
+584º,Mira Estrela,2820.0
+585º,Queiroz,2808.0
+586º,Santo Expedito,2803.0
+587º,Jumirim,2798.0
+588º,São Francisco,2793.0
+589º,Rubiácea,2729.0
+590º,Taquaral,2726.0
+591º,Lutécia,2714.0
+592º,Gabriel Monteiro,2708.0
+593º,Águas de São Pedro,2707.0
+594º,Nantes,2707.0
+595º,Bento de Abreu,2674.0
+596º,Óleo,2673.0
+597º,Cândido Rodrigues,2668.0
+598º,Estrela do Norte,2658.0
+599º,Timburi,2646.0
+600º,Cássia dos Coqueiros,2634.0
+601º,Marapoama,2633.0
+602º,Brejo Alegre,2573.0
+603º,São João das Duas Pontes,2566.0
+604º,Pedranópolis,2558.0
+605º,Santa Rita d'Oeste,2543.0
+606º,Oscar Bressane,2537.0
+607º,Pontes Gestal,2518.0
+608º,Arapeí,2493.0
+609º,Embaúba,2423.0
+610º,Sagres,2395.0
+611º,Zacarias,2335.0
+612º,Borebi,2293.0
+613º,Cruzália,2274.0
+614º,Torre de Pedra,2254.0
+615º,Lucianópolis,2249.0
+616º,Ribeirão dos Índios,2187.0
+617º,Nova Guataporanga,2177.0
+618º,Monções,2132.0
+619º,Lourdes,2128.0
+620º,Nova Canaã Paulista,2114.0
+621º,Marinópolis,2113.0
+622º,São João do Pau d'Alho,2103.0
+623º,Dolcinópolis,2096.0
+624º,Santa Clara d'Oeste,2084.0
+625º,Parisi,2032.0
+626º,Turmalina,1978.0
+627º,Guarani d'Oeste,1970.0
+628º,Santa Cruz da Esperança,1953.0
+629º,Turiúba,1930.0
+630º,Arco-Íris,1925.0
+631º,Mesópolis,1886.0
+632º,Aspásia,1809.0
+633º,São João de Iracema,1780.0
+634º,Paulistânia,1779.0
+635º,Flora Rica,1752.0
+636º,Vitória Brasil,1737.0
+637º,Dirce Reis,1689.0
+638º,Santana da Ponte Pensa,1641.0
+639º,União Paulista,1599.0
+640º,Fernão,1563.0
+641º,Trabiju,1544.0
+642º,Santa Salete,1447.0
+643º,Uru,1251.0
+644º,Nova Castilho,1125.0
+645º,Borá,805.0
