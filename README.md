@@ -11,7 +11,7 @@ Durante o ano de 2022 84 clubes de futebol do Estado de São Paulo entraram em c
 
 Esses times estão espalhados em 63 cidades dentro do estado.
 
-Usando dados Wikipédia foram coletados os nomes desses times e suas respectivas sedes além de dados econômicos e demográficos das cidades do estado (IDH, PIB e população).
+Usando dados Wikipédia foram coletados os nomes desses times e suas respectivas sedes além de dados econômicos e demográficos de todas as cidades do estado (IDH, PIB e população).
 
 Utilizando a biblioteca Pandas para análise de dados as 4 divisões de futebol profissional do estado do São Paulo foram redefinidas utilizando como parâmetros:
 
