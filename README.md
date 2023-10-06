@@ -1,6 +1,6 @@
 # Análise das divisões do Campeonato Paulista
 
-TL;RD Usando dados da Wikipédia para analisar as 4 divisões do Campeonato Paulista
+TL;DR Usando dados da Wikipédia para analisar as 4 divisões do Campeonato Paulista
 
 Durante o ano de 2022 84 clubes de futebol do Estado de São Paulo entraram em campo para disputar partidas oficiais:
 
